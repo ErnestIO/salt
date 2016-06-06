@@ -1,0 +1,17 @@
+{
+    "_links": {
+        "jobs": [
+            {
+                "href": "/jobs/20150423190320435268"
+            }
+        ]
+    },
+    "return": [
+        {
+            "jid": "20150423190320435268",
+            "minions": [
+                "salt-master.localdomain"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "info": [
+        {
+            "Function": "cmd.run_all",
+            "jid": "20150423190320435268",
+            "Target": "salt-master.localdomain",
+            "Target-type": "glob",
+            "User": "salt",
+            "StartTime": "2015, Apr 23 19:03:20.435268",
+            "Arguments": [
+                "date"
+            ],
+            "Minions": [
+                "salt-master.localdomain"
+            ],
+            "Result": {
+                "salt-master.localdomain": {
+                    "return": {
+                        "pid": 25118,
+                        "retcode": 0,
+                        "stderr": "",
+                        "stdout": "Thu Apr 23 19:03:20 BST 2015"
+                    }
+                }
+            }
+        }
+    ],
+    "return": [
+        {
+            "salt-master.localdomain": {
+                "pid": 25118,
+                "retcode": 0,
+                "stderr": "",
+                "stdout": "Thu Apr 23 19:03:20 BST 2015"
+            }
+        }
+    ]
+}

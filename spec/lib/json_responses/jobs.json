@@ -1,0 +1,36 @@
+{
+    "return": [
+        {
+            "20150422194350790591": {
+                "Function": "cmd.run_all",
+                "Target": "test-host",
+                "Target-type": "list",
+                "Arguments": [
+                    "uptime"
+                ],
+                "StartTime": "2015, Apr 22 19:43:50.790591",
+                "User": "salt"
+            },
+            "20150422194300314952": {
+                "Function": "cmd.run_all",
+                "Target": "test-host",
+                "Target-type": "list",
+                "Arguments": [
+                    "date"
+                ],
+                "StartTime": "2015, Apr 22 19:43:00.314952",
+                "User": "salt"
+            },
+            "20150422194433899011": {
+                "Function": "cmd.run_all",
+                "Target": "test-host",
+                "Target-type": "list",
+                "Arguments": [
+                    "date && uptime"
+                ],
+                "StartTime": "2015, Apr 22 19:44:33.899011",
+                "User": "salt"
+            }
+        }
+    ]
+}

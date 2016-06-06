@@ -1,0 +1,189 @@
+{
+    "return": [
+        {
+            "test-host": {
+                "kernel": "Linux",
+                "domain": "sys.domain.net",
+                "zmqversion": "3.2.5",
+                "kernelrelease": "2.6.32-431.el6.x86_64",
+                "selinux": {
+                    "enforced": "Disabled",
+                    "enabled": false
+                },
+                "ip_interfaces": {
+                    "lo": [
+                        "127.0.0.1"
+                    ],
+                    "eth2": [
+                        "10.64.2.101"
+                    ]
+                },
+                "shell": "/bin/bash",
+                "mem_total": 3832,
+                "saltversioninfo": [
+                    2014,
+                    7,
+                    1,
+                    0
+                ],
+                "host": "tom-client-38-share-1",
+                "SSDs": [],
+                "id": "test-host",
+                "osrelease": "6.5",
+                "ps": "ps -efH",
+                "locale_info": {
+                    "defaultlanguage": "en_GB",
+                    "defaultencoding": "UTF8"
+                },
+                "ip6_interfaces": {
+                    "lo": [
+                        "::1"
+                    ],
+                    "eth2": [
+                        "fe80::250:56ff:fe01:7cd"
+                    ]
+                },
+                "num_cpus": 2,
+                "hwaddr_interfaces": {
+                    "lo": "00:00:00:00:00:00",
+                    "eth2": "00:50:56:01:07:cd"
+                },
+                "ip4_interfaces": {
+                    "lo": [
+                        "127.0.0.1"
+                    ],
+                    "eth2": [
+                        "10.64.2.101"
+                    ]
+                },
+                "osfullname": "CentOS",
+                "master": "10.64.4.101",
+                "lsb_distrib_id": "CentOS",
+                "pythonpath": [
+                    "/usr/bin",
+                    "/usr/lib64/python26.zip",
+                    "/usr/lib64/python2.6",
+                    "/usr/lib64/python2.6/plat-linux2",
+                    "/usr/lib64/python2.6/lib-tk",
+                    "/usr/lib64/python2.6/lib-old",
+                    "/usr/lib64/python2.6/lib-dynload",
+                    "/usr/lib64/python2.6/site-packages",
+                    "/usr/lib/python2.6/site-packages"
+                ],
+                "cpu_flags": [
+                    "fpu",
+                    "vme",
+                    "de",
+                    "pse",
+                    "tsc",
+                    "msr",
+                    "pae",
+                    "mce",
+                    "cx8",
+                    "apic",
+                    "sep",
+                    "mtrr",
+                    "pge",
+                    "mca",
+                    "cmov",
+                    "pat",
+                    "pse36",
+                    "clflush",
+                    "mmx",
+                    "fxsr",
+                    "sse",
+                    "sse2",
+                    "syscall",
+                    "nx",
+                    "mmxext",
+                    "fxsr_opt",
+                    "pdpe1gb",
+                    "rdtscp",
+                    "lm",
+                    "constant_tsc",
+                    "rep_good",
+                    "tsc_reliable",
+                    "nonstop_tsc",
+                    "aperfmperf",
+                    "unfair_spinlock",
+                    "pni",
+                    "pclmulqdq",
+                    "ssse3",
+                    "fma",
+                    "cx16",
+                    "sse4_1",
+                    "sse4_2",
+                    "x2apic",
+                    "popcnt",
+                    "aes",
+                    "xsave",
+                    "avx",
+                    "f16c",
+                    "hypervisor",
+                    "lahf_lm",
+                    "extapic",
+                    "cr8_legacy",
+                    "abm",
+                    "sse4a",
+                    "misalignsse",
+                    "3dnowprefetch",
+                    "osvw",
+                    "xop",
+                    "fma4",
+                    "tbm",
+                    "bmi1"
+                ],
+                "localhost": "test-host",
+                "ipv4": [
+                    "10.64.2.101",
+                    "127.0.0.1"
+                ],
+                "fqdn_ip4": [
+                    "127.0.1.1",
+                    "10.64.2.101"
+                ],
+                "fqdn_ip6": [],
+                "nodename": "test-host",
+                "saltversion": "2014.7.1",
+                "lsb_distrib_release": "6.5",
+                "ipv6": [
+                    "::1",
+                    "fe80::250:56ff:fe01:7cd"
+                ],
+                "saltpath": "/usr/lib/python2.6/site-packages/salt",
+                "cpu_model": "AMD Opteron(tm) Processor 6378",
+                "osmajorrelease": "6",
+                "os_family": "RedHat",
+                "oscodename": "Final",
+                "osfinger": "CentOS-6",
+                "pythonversion": [
+                    2,
+                    6,
+                    6,
+                    "final",
+                    0
+                ],
+                "num_gpus": 1,
+                "virtual": "VMware",
+                "server_id": 1520595492,
+                "fqdn": "test-host",
+                "pythonexecutable": "/usr/bin/python",
+                "osarch": "x86_64",
+                "cpuarch": "x86_64",
+                "lsb_distrib_codename": "Final",
+                "osrelease_info": [
+                    6,
+                    5
+                ],
+                "gpus": [
+                    {
+                        "model": "SVGA II Adapter",
+                        "vendor": "unknown"
+                    }
+                ],
+                "path": "/sbin:/usr/sbin:/bin:/usr/bin",
+                "os": "CentOS"
+            }
+        }
+    ]
+}
