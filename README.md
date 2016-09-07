@@ -8,9 +8,9 @@ https://saltstack.com/
 
 ## Build status
 
-* Master: [![CircleCI Master](https://circleci.com/gh/ErnestIO/salt/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/salt/tree/master)
+* Master: [![CircleCI Master](https://circleci.com/gh/ernestio/salt/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/salt/tree/master)
 
-* Develop: [![CircleCI Develop](https://circleci.com/gh/ErnestIO/salt/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/salt/tree/develop)
+* Develop: [![CircleCI Develop](https://circleci.com/gh/ernestio/salt/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/salt/tree/develop)
 
 ## Tests
 
