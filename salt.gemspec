@@ -9,6 +9,5 @@ Gem::Specification.new do |s|
   # s.executable  = 'sea'
   s.files += Dir.glob('lib/**/*.rb')
   s.homepage = 'http://r3labs.io'
-  s.add_runtime_dependency 'json', ['= 1.8.1']
   s.add_runtime_dependency 'thor', ['= 0.19.1']
 end
